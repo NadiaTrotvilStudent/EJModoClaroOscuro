@@ -52,11 +52,11 @@ El proyecto incluye los siguientes archivos:
 ### Opción 1: Ejecutar localmente
 1. Clona este repositorio o descarga los archivos:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/NadiaTrotvilStudent/EJModoClaroOscuro.git>
 
 
 
 ### Notas finales:
-1. **Reemplaza `<URL_DEL_REPOSITORIO>`** con el enlace de tu repositorio.
-2.  **"Desarrollado por [Nadia Trotvil]"**
+1. **Reemplaza `<https://github.com/NadiaTrotvilStudent/EJModoClaroOscuro.git>`** con el enlace de tu repositorio.
+2.  **"Desarrollado por Nadia Trotvil"**
 
