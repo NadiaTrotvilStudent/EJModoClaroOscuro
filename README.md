@@ -22,6 +22,11 @@ Este proyecto es una página web interactiva que permite alternar entre **Modo C
    - **Footer**: Incluye información sobre la materia y el curso, junto con el logo de UADE.
 
 ---
+## Visualización en GitHub Pages
+
+Puedes acceder al proyecto en línea haciendo clic en el siguiente enlace:
+
+**[Ver sitio en GitHub Pages](https://nadiatrotvilstudent.github.io/EJModoClaroOscuro/)**
 
 ## Tecnologías Utilizadas
 
