@@ -1,0 +1,42 @@
+
+
+/* General */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Asegura que el body ocupe toda la pantalla */
+    margin: 0; /* Elimina márgenes */
+}
+
+main {
+    flex: 1; /* Ocupa el espacio restante entre el header y el footer */
+}
+
+footer {
+    background-color: #212529;
+    color: #f8f9fa;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%;
+}
+
+/* Estilo para el modo claro */
+.modo-claro {
+    background-color: #f8f9fa; /* Fondo claro */
+    color: #000; /* Texto oscuro */
+}
+
+/* Estilo para el modo oscuro */
+.modo-oscuro {
+    background-color: #343a40; /* Fondo oscuro */
+    color: #f8f9fa; /* Texto claro */
+}
+
+/* Estilo adicional para el footer */
+footer.bg-secondary {
+    border-top: 2px solid #e0e0e0; /* Borde superior para modo claro */
+}
+
+footer.bg-dark {
+    border-top: 2px solid #444; /* Borde superior para modo oscuro */
+}
